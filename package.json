@@ -1,0 +1,13 @@
+{
+  "name": "poolhub",
+  "version": "0.1.0",
+  "description": "PoolHub: events, live scores, players and tournaments for pool (billiards)",
+  "private": true,
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "seed": "node seed.js",
+    "test": "node test.js"
+  },
+  "engines": { "node": ">=22.5" }
+}
